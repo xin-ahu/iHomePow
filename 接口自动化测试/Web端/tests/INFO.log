@@ -1,0 +1,187 @@
+2025-03-17 16:06:48,130 HttpClient.py logging DEBUG request <Response [200]>, response 200
+2025-03-17 16:06:48,237 HttpClient.py logging DEBUG request <Response [200]>, response 200
+2025-03-17 16:06:48,323 HttpClient.py logging DEBUG request <Response [200]>, response 200
+2025-03-17 16:06:48,400 HttpClient.py logging DEBUG request <Response [200]>, response 200
+2025-03-17 16:06:48,492 HttpClient.py logging DEBUG request <Response [200]>, response 200
+2025-03-17 16:06:48,575 HttpClient.py logging DEBUG request <Response [200]>, response 200
+2025-03-17 16:06:48,606 HttpClient.py logging DEBUG request <Response [200]>, response 200
+2025-03-17 16:06:48,641 HttpClient.py logging DEBUG request <Response [200]>, response 200
+2025-03-17 16:06:49,824 HttpClient.py logging DEBUG request <Response [200]>, response 200
+2025-03-17 16:06:50,339 HttpClient.py logging DEBUG request <Response [200]>, response 200
+2025-03-17 16:06:50,369 HttpClient.py logging DEBUG request <Response [200]>, response 200
+2025-03-17 16:06:50,409 HttpClient.py logging DEBUG request <Response [200]>, response 200
+2025-03-17 16:06:50,457 HttpClient.py logging DEBUG request <Response [200]>, response 200
+2025-03-17 16:06:50,484 HttpClient.py logging DEBUG request <Response [200]>, response 200
+2025-03-17 16:06:50,521 HttpClient.py logging DEBUG request <Response [200]>, response 200
+2025-03-17 16:06:50,634 HttpClient.py logging DEBUG request <Response [200]>, response 200
+2025-03-17 16:06:50,860 HttpClient.py logging DEBUG request <Response [200]>, response 200
+2025-03-17 16:06:50,886 HttpClient.py logging DEBUG request <Response [200]>, response 200
+2025-03-17 16:06:50,924 HttpClient.py logging DEBUG request <Response [200]>, response 200
+2025-03-17 16:06:50,983 HttpClient.py logging DEBUG request <Response [200]>, response 200
+2025-03-17 16:06:51,024 HttpClient.py logging DEBUG request <Response [200]>, response 200
+2025-03-17 16:06:51,052 HttpClient.py logging DEBUG request <Response [200]>, response 200
+2025-03-17 16:06:51,155 HttpClient.py logging DEBUG request <Response [200]>, response 200
+2025-03-17 16:06:51,180 HttpClient.py logging DEBUG request <Response [200]>, response 200
+2025-03-17 16:06:51,294 HttpClient.py logging DEBUG request <Response [200]>, response 200
+2025-03-17 16:06:51,361 HttpClient.py logging DEBUG request <Response [200]>, response 200
+2025-03-17 16:06:51,463 HttpClient.py logging DEBUG request <Response [200]>, response 200
+2025-03-17 16:06:51,509 HttpClient.py logging DEBUG request <Response [200]>, response 200
+2025-03-17 16:06:51,534 HttpClient.py logging DEBUG request <Response [200]>, response 200
+2025-03-17 16:48:12,445 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/weatherData/chart, response 200
+2025-03-17 16:48:12,600 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/weatherData/list, response 200
+2025-03-17 16:48:12,695 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/powerData/chart, response 200
+2025-03-17 16:48:12,800 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/powerData/list, response 200
+2025-03-17 16:48:12,881 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/loadData/chart, response 200
+2025-03-17 16:48:12,982 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/loadData/list, response 200
+2025-03-17 16:48:13,007 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/system/dict/data/type/price_type, response 200
+2025-03-17 16:48:13,035 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/price/list, response 200
+2025-03-17 16:48:14,215 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/simulate/genSuggestion, response 200
+2025-03-17 16:48:14,927 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/product/getAllProd?, response 200
+2025-03-17 16:48:14,952 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/product/add, response 200
+2025-03-17 16:48:15,082 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/product/edit, response 200
+2025-03-17 16:48:15,131 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/pd/getAllDevices, response 200
+2025-03-17 16:48:15,162 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/charge/getAllDevices, response 200
+2025-03-17 16:48:15,228 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/roomDevice/getAllDevices, response 200
+2025-03-17 16:48:15,364 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/home/list, response 200
+2025-03-17 16:48:15,586 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/home/getHomeInfoById?homeId=None, response 200
+2025-03-17 16:48:15,617 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/userConfig/getConfig?homeId=None, response 200
+2025-03-17 16:48:15,672 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/home/powerStationList, response 200
+2025-03-17 16:48:15,752 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/ps/power/realtimeChart, response 200
+2025-03-17 16:48:15,830 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/home/chargeStationList, response 200
+2025-03-17 16:48:15,864 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/home/roomList, response 200
+2025-03-17 16:48:15,995 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/system/user/getInfo, response 200
+2025-03-17 16:48:16,061 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/system/menu/getRouters, response 200
+2025-03-17 16:48:16,171 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/ps/webIndexInfo, response 200
+2025-03-17 16:48:16,269 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/ps/mapHomes, response 200
+2025-03-17 16:48:16,390 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/system/user/deptTree, response 200
+2025-03-17 16:48:16,449 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/system/user/list?pageNum=1&pageSize=10, response 200
+2025-03-17 16:48:16,477 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/system/user, response 200
+2025-03-17 16:51:43,473 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/home/list, response 200
+2025-03-17 16:54:04,507 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/home/list, response 200
+2025-03-17 16:54:52,231 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/weatherData/chart, response 200
+2025-03-17 16:54:52,344 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/weatherData/list, response 200
+2025-03-17 16:54:52,655 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/powerData/chart, response 200
+2025-03-17 16:54:52,728 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/powerData/list, response 200
+2025-03-17 16:54:52,824 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/loadData/chart, response 200
+2025-03-17 16:54:52,902 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/loadData/list, response 200
+2025-03-17 16:54:52,943 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/system/dict/data/type/price_type, response 200
+2025-03-17 16:54:52,971 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/price/list, response 200
+2025-03-17 16:54:56,470 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/simulate/genSuggestion, response 200
+2025-03-17 16:54:56,890 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/product/getAllProd?, response 200
+2025-03-17 16:54:56,927 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/product/add, response 200
+2025-03-17 16:54:56,953 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/product/edit, response 200
+2025-03-17 16:54:56,989 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/pd/getAllDevices, response 200
+2025-03-17 16:54:57,266 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/charge/getAllDevices, response 200
+2025-03-17 16:54:57,299 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/roomDevice/getAllDevices, response 200
+2025-03-17 16:54:57,405 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/home/list, response 200
+2025-03-17 16:54:57,435 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/home/list, response 200
+2025-03-17 16:54:57,455 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/home/getHomeInfoById?homeId=1900071437570543616, response 200
+2025-03-17 16:54:57,480 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/home/list, response 200
+2025-03-17 16:54:57,502 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/userConfig/getConfig?homeId=1900071437570543616, response 200
+2025-03-17 16:54:57,553 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/home/powerStationList, response 200
+2025-03-17 16:54:57,846 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/ps/power/realtimeChart, response 200
+2025-03-17 16:54:57,894 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/home/chargeStationList, response 200
+2025-03-17 16:54:57,918 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/home/roomList, response 200
+2025-03-17 16:54:58,013 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/system/user/getInfo, response 200
+2025-03-17 16:54:58,052 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/system/menu/getRouters, response 200
+2025-03-17 16:54:58,164 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/ps/webIndexInfo, response 200
+2025-03-17 16:54:58,235 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/ps/mapHomes, response 200
+2025-03-17 16:54:58,338 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/system/user/deptTree, response 200
+2025-03-17 16:54:58,391 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/system/user/list?pageNum=1&pageSize=10, response 200
+2025-03-17 16:54:58,435 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/system/user, response 200
+2025-03-21 14:30:00,839 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/weatherData/chart, response 200
+2025-03-21 14:30:01,158 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/weatherData/list, response 200
+2025-03-21 14:31:50,752 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/weatherData/chart, response 200
+2025-03-21 14:31:51,045 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/weatherData/list, response 200
+2025-03-21 14:31:51,365 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/powerData/chart, response 200
+2025-03-21 14:31:51,679 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/powerData/list, response 200
+2025-03-21 14:31:51,985 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/loadData/chart, response 200
+2025-03-21 14:31:52,358 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/loadData/list, response 200
+2025-03-21 14:31:52,381 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/system/dict/data/type/price_type, response 200
+2025-03-21 14:31:52,408 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/price/list, response 200
+2025-03-21 14:31:55,200 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/simulate/genSuggestion, response 200
+2025-03-21 14:31:55,901 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/product/getAllProd?, response 200
+2025-03-21 14:31:55,935 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/product/add, response 200
+2025-03-21 14:31:55,964 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/product/edit, response 200
+2025-03-21 14:31:56,013 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/pd/getAllDevices, response 200
+2025-03-21 14:31:56,067 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/charge/getAllDevices, response 200
+2025-03-21 14:31:56,339 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/roomDevice/getAllDevices, response 200
+2025-03-21 14:31:56,458 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/home/list, response 200
+2025-03-21 14:31:56,490 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/home/list, response 200
+2025-03-21 14:31:56,513 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/home/getHomeInfoById?homeId=1900071437570543616, response 200
+2025-03-21 14:31:56,540 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/home/list, response 200
+2025-03-21 14:31:56,570 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/userConfig/getConfig?homeId=1900071437570543616, response 200
+2025-03-21 14:31:56,632 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/home/powerStationList, response 200
+2025-03-21 14:31:57,430 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/ps/power/realtimeChart, response 200
+2025-03-21 14:31:57,477 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/home/chargeStationList, response 200
+2025-03-21 14:31:57,518 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/home/roomList, response 200
+2025-03-21 14:31:57,607 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/system/user/getInfo, response 200
+2025-03-21 14:31:57,631 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/system/menu/getRouters, response 200
+2025-03-21 14:31:57,750 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/ps/webIndexInfo, response 200
+2025-03-21 14:31:57,799 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/ps/mapHomes, response 200
+2025-03-21 14:31:58,125 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/system/user/deptTree, response 200
+2025-03-21 14:31:58,175 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/system/user/list?pageNum=1&pageSize=10, response 200
+2025-03-21 14:31:58,517 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/system/user, response 200
+2025-03-21 14:34:02,185 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/weatherData/chart, response 200
+2025-03-21 14:34:02,272 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/weatherData/list, response 200
+2025-03-21 14:34:02,362 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/powerData/chart, response 200
+2025-03-21 14:34:02,430 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/powerData/list, response 200
+2025-03-21 14:34:02,517 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/loadData/chart, response 200
+2025-03-21 14:34:02,588 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/loadData/list, response 200
+2025-03-21 14:34:02,610 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/system/dict/data/type/price_type, response 200
+2025-03-21 14:34:02,634 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/price/list, response 200
+2025-03-21 14:34:03,681 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/simulate/genSuggestion, response 200
+2025-03-21 14:34:03,943 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/product/getAllProd?, response 200
+2025-03-21 14:34:03,966 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/product/add, response 200
+2025-03-21 14:34:03,992 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/product/edit, response 200
+2025-03-21 14:34:04,027 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/pd/getAllDevices, response 200
+2025-03-21 14:34:04,058 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/charge/getAllDevices, response 200
+2025-03-21 14:34:04,093 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/roomDevice/getAllDevices, response 200
+2025-03-21 14:34:04,184 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/home/list, response 200
+2025-03-21 14:34:04,206 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/home/list, response 200
+2025-03-21 14:34:04,225 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/home/getHomeInfoById?homeId=1900071437570543616, response 200
+2025-03-21 14:34:04,246 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/home/list, response 200
+2025-03-21 14:34:04,266 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/userConfig/getConfig?homeId=1900071437570543616, response 200
+2025-03-21 14:34:04,310 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/home/powerStationList, response 200
+2025-03-21 14:34:04,454 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/ps/power/realtimeChart, response 200
+2025-03-21 14:34:04,496 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/home/chargeStationList, response 200
+2025-03-21 14:34:04,518 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/home/roomList, response 200
+2025-03-21 14:34:04,602 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/system/user/getInfo, response 200
+2025-03-21 14:34:04,624 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/system/menu/getRouters, response 200
+2025-03-21 14:34:04,729 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/ps/webIndexInfo, response 200
+2025-03-21 14:34:04,768 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/ps/mapHomes, response 200
+2025-03-21 14:34:04,859 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/system/user/deptTree, response 200
+2025-03-21 14:34:04,907 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/system/user/list?pageNum=1&pageSize=10, response 200
+2025-03-21 14:34:04,929 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/system/user, response 200
+2025-03-21 14:37:05,758 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/weatherData/chart, response 200
+2025-03-21 14:37:05,843 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/weatherData/list, response 200
+2025-03-21 14:37:05,915 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/powerData/chart, response 200
+2025-03-21 14:37:05,980 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/powerData/list, response 200
+2025-03-21 14:37:06,053 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/loadData/chart, response 200
+2025-03-21 14:37:06,130 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/loadData/list, response 200
+2025-03-21 14:37:06,152 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/system/dict/data/type/price_type, response 200
+2025-03-21 14:37:06,175 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/price/list, response 200
+2025-03-21 14:37:07,199 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/simulate/genSuggestion, response 200
+2025-03-21 14:37:07,518 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/product/getAllProd?, response 200
+2025-03-21 14:37:07,541 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/product/add, response 200
+2025-03-21 14:37:07,565 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/product/edit, response 200
+2025-03-21 14:37:07,598 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/pd/getAllDevices, response 200
+2025-03-21 14:37:07,625 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/charge/getAllDevices, response 200
+2025-03-21 14:37:07,656 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/roomDevice/getAllDevices, response 200
+2025-03-21 14:37:07,744 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/home/list, response 200
+2025-03-21 14:37:07,766 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/home/list, response 200
+2025-03-21 14:37:07,967 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/home/getHomeInfoById?homeId=None, response 200
+2025-03-21 14:37:07,997 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/home/list, response 200
+2025-03-21 14:37:08,016 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/userConfig/getConfig?homeId=None, response 200
+2025-03-21 14:37:08,063 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/home/powerStationList, response 200
+2025-03-21 14:37:08,141 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/ps/power/realtimeChart, response 200
+2025-03-21 14:37:08,184 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/home/chargeStationList, response 200
+2025-03-21 14:37:08,206 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/home/roomList, response 200
+2025-03-21 14:37:08,285 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/system/user/getInfo, response 200
+2025-03-21 14:37:08,308 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/system/menu/getRouters, response 200
+2025-03-21 14:37:08,410 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/ps/webIndexInfo, response 200
+2025-03-21 14:37:08,461 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/ps/mapHomes, response 200
+2025-03-21 14:37:08,561 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/system/user/deptTree, response 200
+2025-03-21 14:37:08,607 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/system/user/list?pageNum=1&pageSize=10, response 200
+2025-03-21 14:37:08,630 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/system/user, response 200
+2025-03-21 15:50:31,839 HttpClient.py logging DEBUG request http://116.62.184.16/ihome-platform/prod-api/home/list, response 200
